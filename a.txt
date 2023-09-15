@@ -1,3 +1,5 @@
 Am modifying this file to test:wq!
 :`
 So now i am editing it in the git ui 
+
+I am doing changes in remote master 
